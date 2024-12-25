@@ -51,7 +51,7 @@ It should NOT have internet connectivity as a requirement. The user should be ab
 
 I am aware that that most if not most if not ALL of the above is already in the public domain or open source, so **the entire hardware/software stack should be open source.** Not much of this is new, so the project is mostly integration and UI/UX work.
 
-This idea is beyond my ability to produce, but I want it made so it's open source. Merry Christmas 12/125/2024
+This idea is beyond my ability to produce, but I want it made so it's open source. Merry Christmas 12/25/2024
 
 
 
